@@ -1,4 +1,4 @@
-<h1>[Click Here To Use The App]</h1>(https://dus379.csb.app/).
+<a href="https://dus379.csb.app/"><h1>Click Here To Use The App</h1></a>
 
 # Getting Started with Create React App
 
